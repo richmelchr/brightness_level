@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="left|center" android:orientation="vertical" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" style="@style/DialogWindow"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/logo" android:scaleType="centerInside" />
+            <LinearLayout android:orientation="vertical" android:background="@color/help_bg" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip">
+                <CheckBox android:textColor="#ff000000" android:id="@id/cbLabel" android:paddingLeft="45.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/show_label" />
+                <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <EditText android:id="@id/etLabel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/hint_label_text" android:maxLines="1" android:lines="1" android:maxLength="10" android:layout_weight="1.0" />
+                    <Button android:id="@id/bClear" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="Clear" />
+                </LinearLayout>
+                <Button android:id="@id/btnOk" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/button_ok" />
+            </LinearLayout>
+            <TextView android:textColorHighlight="@color/link_highlight" android:textColorLink="#ff86a0ff" android:id="@id/tvLinks" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:text="@string/add_url" />
+            <TextView android:textSize="12.0sp" android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:text="@string/copyright" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

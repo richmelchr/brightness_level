@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brightness Level</string>
+    <string name="select_brightness">Select brightness level</string>
+    <string name="close_on_select">Close on select</string>
+    <string name="seekbarOn">Buttons</string>
+    <string name="seekbarOff">SeekBar</string>
+    <string name="brightness_auto">Auto</string>
+    <string name="show_label">Show label</string>
+    <string name="label_as_settings">Label as settings</string>
+    <string name="hint_label_text">Label text</string>
+    <string name="center_icon">Center Icon</string>
+    <string name="button_ok">OK</string>
+    <string name="button_clear">Clear</string>
+    <string name="loading">Loading</string>
+    <string name="settings_text">Settings</string>
+    <string name="widget_text">Brightness</string>
+    <string name="help_name">Brightness Level > Help</string>
+    <string name="help_nomarket">"Sorry, but you don't have Android Market."</string>
+    <string name="widget_add_title">How to add widgets:</string>
+    <string name="widget_add_1">1. Go to your Home Screen.</string>
+    <string name="widget_add_2">2. Long click on empty space on Home Screen.</string>
+    <string name="widget_add_3">3. Select \"Widgets\" from list.</string>
+    <string name="widget_add_4">4. Find widget which one you want to add, for example, Brightness Level widget.</string>
+    <string name="widget_add_url">Look for our other apps: <a href="http://curvefish.com/howto/activate-widgets-on-android.htm">CurveFish website</a></string>
+    <string name="add_url">Look for our other apps: <a href="http://market.android.com/search?q=pub:CurveFish">CurveFish on the Android Market</a>, <a href="http://curvefish.com/howto/activate-widgets-on-android.htm">CurveFish website</a></string>
+    <string name="gallery_appcontrol">AppControl - Easy to use and extremely fast application manager.</string>
+    <string name="gallery_pman">Process Manager - allows you kill applications to speed up phone and save battery.</string>
+    <string name="gallery_onoffpack">OnOff Widgets Pack - All our widgets and even more in one pack. Skin support for widgets.</string>
+    <string name="gallery_appremover">AppRemover - Easy to use and extremely fast uninstall application.</string>
+    <string name="gallery_curvefish">Click to find more applications and widgets by CurveFish.</string>
+    <string name="copyright">"Copyright © 2009-2010 CurveFish
+All rights reserved"</string>
+    <string name="configure">WiFi OnOff Configure</string>
+</resources>

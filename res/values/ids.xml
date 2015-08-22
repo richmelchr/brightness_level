@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ivIcon">false</item>
+    <item type="id" name="tvText">false</item>
+    <item type="id" name="LinearLayout01">false</item>
+    <item type="id" name="gallery">false</item>
+    <item type="id" name="tvLinks">false</item>
+    <item type="id" name="llSelect">false</item>
+    <item type="id" name="tvCurrentValue">false</item>
+    <item type="id" name="btn1">false</item>
+    <item type="id" name="btn2">false</item>
+    <item type="id" name="btn3">false</item>
+    <item type="id" name="btn4">false</item>
+    <item type="id" name="btn5">false</item>
+    <item type="id" name="btnAuto">false</item>
+    <item type="id" name="sbBrightness">false</item>
+    <item type="id" name="cbCloseOnSelect">false</item>
+    <item type="id" name="ivWidget">false</item>
+    <item type="id" name="tvPercent">false</item>
+    <item type="id" name="Settings">false</item>
+    <item type="id" name="cbLabel">false</item>
+    <item type="id" name="etLabel">false</item>
+    <item type="id" name="bClear">false</item>
+    <item type="id" name="btnOk">false</item>
+</resources>

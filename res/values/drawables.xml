@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="black">#af0d0709</item>
+    <item type="drawable" name="dark_blue">#af4d5d6a</item>
+</resources>

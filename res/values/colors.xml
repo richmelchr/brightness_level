@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_bg">#ee2d2d2d</color>
+    <color name="dialog_bg_stroke">#ff404040</color>
+    <color name="help_bg">#ffdedede</color>
+    <color name="help_text_color">#ffe8e8e8</color>
+    <color name="help_title_text">#ffe8e8e8</color>
+    <color name="help_title_bg">#ff2d2d2d</color>
+    <color name="help_footer_bg">#ff6d6d6d</color>
+    <color name="link_highlight">#ff656565</color>
+</resources>

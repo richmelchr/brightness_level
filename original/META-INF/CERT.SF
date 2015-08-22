@@ -1,0 +1,127 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Wyi5Gb3sHQ7G0MTxD7/UaX61oH0=
+
+Name: res/drawable/gallery_item_selector.xml
+SHA1-Digest: dzi230g97tA0W+0iPGoXTsCsCdM=
+
+Name: res/layout-land/widget.xml
+SHA1-Digest: Vc/jdwM5ywjD7ppMxscEq8mfr/I=
+
+Name: res/drawable/logo.png
+SHA1-Digest: 5hhF2P4uMBUN2rgVMMZ8jW9XEt4=
+
+Name: res/drawable/pman_icon.png
+SHA1-Digest: pVkGZbAnMYIsAfwgsaf1Q5Y7/DI=
+
+Name: resources.arsc
+SHA1-Digest: sxX7JXZ7D9hJAafNUD8ugf8B8lI=
+
+Name: res/drawable/back.9.png
+SHA1-Digest: eB3iUcA2Zw38zt7CXKK5hE02xps=
+
+Name: res/drawable/onoffpack_icon.png
+SHA1-Digest: dQgWFoG36+uPg+TKs1WVLWQW1jI=
+
+Name: res/layout/widget.xml
+SHA1-Digest: xqXyTTeErupsubF8o3DAvwioKAg=
+
+Name: res/drawable/appcontrol.png
+SHA1-Digest: Qfg9bFDhEDYR8/XZrycFdIHyApE=
+
+Name: res/drawable/footer_bg.xml
+SHA1-Digest: l/wL4dCs7cJ7tBql5LcOUIm79XE=
+
+Name: res/drawable/gallery_item_default.xml
+SHA1-Digest: FvvIOAFGD2ZcxXwBDP7JAChHYFA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: M+y+34uT5mcAGCrn2ITjiDYKUmo=
+
+Name: res/drawable/btn_check_on.png
+SHA1-Digest: jhF8wbmrbSl8W+U5RqSh87gV+vA=
+
+Name: res/drawable/curvefish_icon.png
+SHA1-Digest: Jp5aMPZN4PD0l0GDVpTR5ZIbHno=
+
+Name: res/layout/widget_settings.xml
+SHA1-Digest: /pL/kmp9faYYKR1duDtEyNLfULw=
+
+Name: res/drawable/checkbox.xml
+SHA1-Digest: TgQ3Nlwi14jgmpGPz5xS/dZNyns=
+
+Name: res/drawable/list_bg_bottom.xml
+SHA1-Digest: fRI+HLwvfWAN959HsT0hyg7tI3A=
+
+Name: res/drawable/btn_check_off_selected.png
+SHA1-Digest: UHaS9Ap6De5VC9RGlIIle+EXXbQ=
+
+Name: res/drawable/seekbar_button_selector.xml
+SHA1-Digest: 4KfCLEi8IQAEi7OFPDj1qMKPLYQ=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 0nqnwguSGg3LSkWxbh7bEAl5KE4=
+
+Name: res/layout/help.xml
+SHA1-Digest: /saeJUqp++qSvVZyocrhChJcOTY=
+
+Name: res/drawable/back_title.xml
+SHA1-Digest: BCRwylOoB+8p6x0mb8qRQcjqKPA=
+
+Name: res/drawable/text_bg.xml
+SHA1-Digest: dBLOajDTUyyngJdD+1LCJRZllQI=
+
+Name: res/drawable/btn_check_on_selected.png
+SHA1-Digest: tmVxXaysWHcyXghdxlHXYmlflWQ=
+
+Name: res/drawable/appremover_icon.png
+SHA1-Digest: bE26umGkhvxDXJx9Q/3lmcWQ/Bk=
+
+Name: res/drawable/list_bg_top.xml
+SHA1-Digest: QMP9JfEDitMSPL+1gsHY1dm5Euk=
+
+Name: res/layout/select_brightness.xml
+SHA1-Digest: orSLbQDGMPP9NPb1XuQAg/6mvdU=
+
+Name: res/drawable-hdpi-v4/appcontrol.png
+SHA1-Digest: HW4mAdIqy5h+vkOQFBofey8WstU=
+
+Name: classes.dex
+SHA1-Digest: V+ryAdeP0Rsw61o2O/4hQDxKyj4=
+
+Name: res/xml/widget_info.xml
+SHA1-Digest: O7Gf+sLxYmiRF4C7LVkTIZQrYNs=
+
+Name: res/drawable/shortcut.png
+SHA1-Digest: 2VQMmDqfcShQTt66JdNjYZY7XDE=
+
+Name: res/drawable/gallery_item_pressed.xml
+SHA1-Digest: hOeb54Gg4obNVMCxUVmdmjpg5OU=
+
+Name: res/layout/gallery_item.xml
+SHA1-Digest: U+aY5QzDgzqi9BqeVMOLN5R+llE=
+
+Name: res/drawable/icon.png
+SHA1-Digest: hPW8Vz5XOULgFveB4awbIAtf9TU=
+
+Name: res/drawable/btn_check_off_pressed.png
+SHA1-Digest: Tyz29aZPDEuSlI995HALD2I2ojg=
+
+Name: res/drawable/btn_check_on_pressed.png
+SHA1-Digest: wBnvTB7FqbQLeuC7paetoBVpFuA=
+
+Name: res/drawable-hdpi-v4/shortcut.png
+SHA1-Digest: TlbG+7DZ0pDOZBQOwJRDH2E2rOA=
+
+Name: res/drawable/btn_check_off.png
+SHA1-Digest: zvPcjQq9hvG0fRaDkCKh3baVMhA=
+
+Name: res/drawable/dialog_bg.xml
+SHA1-Digest: EvQXKo91+sjnIrvCz1jUqAd41LI=
+
+Name: res/drawable-hdpi-v4/curvefish_icon.png
+SHA1-Digest: Zf2gPytXsfho6FWHGvmztuXpgGM=
+
+Name: res/drawable-hdpi-v4/onoffpack_icon.png
+SHA1-Digest: s5aNjTYc9FAMOYJjCCs0mxr876c=
+

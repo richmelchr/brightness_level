@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NoBackgroundAndTitle" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.NoBackground" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="Theme.NoTitle" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DialogWindow">
+        <item name="android:background">@drawable/dialog_bg</item>
+    </style>
+    <style name="WidgetLabel">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/text_bg</item>
+    </style>
+</resources>
